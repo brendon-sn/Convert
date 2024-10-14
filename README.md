@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="../Convert/img/home.png" alt="Tela do Site" width="100%">
+  <img src="img/home.png" alt="Tela do Site" width="100%">
 </p>
 
 ## 🚀 Tecnologias
